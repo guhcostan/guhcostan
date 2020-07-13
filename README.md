@@ -1,5 +1,3 @@
-# Gustavo Costa Neves
-
 ## Hello 👋, 
 I'm **Gustavo Costa Neves**🤓,
 I'm a **Junior Front-end(Web and Mobile) developer**.
