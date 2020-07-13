@@ -10,5 +10,6 @@ I'm a **Junior Front-end(Web and Mobile) developer**.
 
 - [Linkedin](https://www.linkedin.com/in/gustavo-costa-neves-184052141/)
 
-
+### Or you can visit my personal site:
+- [Personal Site](https://guhcostan.site/)
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api/?username=guhcostan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
