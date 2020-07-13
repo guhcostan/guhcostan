@@ -1,16 +1,15 @@
-### Hi there 👋
+# Gustavo Costa Neves
 
-<!--
-**guhcostan/guhcostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋, 
+I'm **Gustavo Costa Neves**🤓,
+I'm a **Junior Front-end(Web and Mobile) developer**.
+- 🔭 I’m currently working with React.js and React Native.
+- 🌱 I’m currently learning JavaScript( node.js ).
+-  ⚡ Languages: Javascript, Java and Dotnet.
 
-Here are some ideas to get you started:
+### You Can reach me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Linkedin](https://www.linkedin.com/in/gustavo-costa-neves-184052141/)
+
+
+![Gistav's github stats](https://github-readme-stats.vercel.app/api/?username=guhcostan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
