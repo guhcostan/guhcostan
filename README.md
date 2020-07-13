@@ -4,6 +4,7 @@
 I'm **Gustavo Costa Neves**🤓,
 I'm a **Junior Front-end(Web and Mobile) developer**.
 - 🔭 I’m currently working with React.js and React Native.
+- 💻 I’m currently working in [Equals](https://www.equals.com.br/)
 - 🌱 I’m currently learning JavaScript( node.js ).
 -  ⚡ Languages: Javascript, Java and Dotnet.
 
