@@ -2,7 +2,7 @@
 I'm **Gustavo Costa Neves**🤓,
 I'm a **Junior Front-end(Web and Mobile) developer**.
 - 🔭 I’m currently working with React.js and React Native.
-- 💻 I’m currently working in [Descomplica](https://descomplica.com.br/)
+- 💻 I’m currently working in [RecargaPay](https://recargapay.com.br/)
 - 🌱 I’m currently learning JavaScript( node.js ).
 -  ⚡ Languages: Javascript, Java and Dotnet.
 
