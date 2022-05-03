@@ -4,7 +4,7 @@ I'm a **Senior Mobile and Web developer**.
 - 🔭 I’m currently working with React Native.
 - 💻 I’m currently working in [Thoughtworks](https://thoughtworks.com/)
 - 🌱 I’m currently learning Flutter.
--  ⚡ Languages: React Native, React, Javascript and Java.
+-  ⚡ Frameworks and Languages: React Native, React, Javascript and Java.
 
 ### You Can reach me on:
 
