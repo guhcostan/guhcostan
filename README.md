@@ -1,14 +1,14 @@
 ## Hello 👋, 
 I'm **Gustavo Costa Neves**🤓,
-I'm a **Junior Front-end(Web and Mobile) developer**.
-- 🔭 I’m currently working with React.js and React Native.
+I'm a **Senior Mobile and Web developer**.
+- 🔭 I’m currently working with React Native.
 - 💻 I’m currently working in [Thoughtworks](https://thoughtworks.com/)
-- 🌱 I’m currently learning JavaScript( node.js ).
--  ⚡ Languages: Javascript, Java and Dotnet.
+- 🌱 I’m currently learning Flutter.
+-  ⚡ Languages: React Native, React, Javascript and Java.
 
 ### You Can reach me on:
 
-- [Linkedin](https://www.linkedin.com/in/gustavo-costa-neves-184052141/)
+- [Linkedin](https://www.linkedin.com/in/guhcostan/)
 
 ### Or you can visit my personal site:
 - [Personal Site](https://guhcostan.dev/)
