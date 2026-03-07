@@ -1,40 +1,63 @@
-# Gustavo Costa
+# Hi, I'm Gustavo 👋
 
-## Senior Mobile Engineer | Frontend Specialist
+📍 **Brazil** | 💼 **Tech Lead @ Thoughtworks** | 🧹 **Open Source builder**
 
-👋 Hello! I'm Gustavo, a Senior Mobile Engineer specializing in Frontend development with a focus on React Native, React, and Next.js.
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI_Tools-000000?style=flat&logo=gnometerminal&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-8A2BE2?style=flat&logo=anthropic&logoColor=white)
 
-🌟 With 6 years of experience in React Native and 4 years in React, I've contributed to numerous successful projects that continue to serve thousands of concurrent users.
+> Senior Mobile Engineer with 6+ years in React Native. By day leading teams at Thoughtworks, by night shipping open source CLI tools and MCP servers that people actually use.
 
-🏢 Currently working as a Technical Lead at Thoughtworks, where I lead multilingual teams and drive technical direction for global-scale projects.
+## 🚀 Open Source Projects
 
-### 🛠 Tech Stack
+### 🧹 The Cleaner Series
 
-- **Mobile:** React Native
-- **Web:** React, Next.js
-- **Languages:** TypeScript, JavaScript
-- **Styling:** CSS-in-JS (styled-components)
-- **State Management:** Redux, Redux Saga, Context API, Zustand
-- **Testing:** Jest, React Testing Library, Appium
-- **CI/CD:** Jenkins, Bitrise, Codepush, Firebase Distribution
+* 🍎 **[mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** — Free & open-source alternative to CleanMyMac X. Clears caches, logs, Homebrew and Xcode junk from your terminal `npx mac-cleaner-cli` ⭐ 1.5k+
+* 🪟 **[windows-cleaner-cli](https://github.com/guhcostan/windows-cleaner-cli)** — The same for Windows. One command to clean your PC ⭐ 46
+* 🐧 **[linux-cleaner-cli](https://github.com/guhcostan/linux-cleaner-cli)** — And for Linux. The trilogy is complete ⭐ 1
 
-### 🌐 Connect with Me
+### 🤖 MCP Servers & AI Tools
 
-- [LinkedIn](https://www.linkedin.com/in/guhcostan)
-- [Personal Website](https://guhcostan.dev/)
-- [Blog](https://guhcostan.dev/blog)
-- Email: guhcostan@gmail.com
+* 🎨 **[figmind](https://github.com/guhcostan/figmind)** — Connect Cursor AI to Figma via MCP — read and modify designs in real time
+* 🔍 **[web-search-mcp](https://github.com/guhcostan/web-search-mcp)** — Web search MCP server for AI agents ⭐ 3
+* 📋 **[jira-mcp](https://github.com/guhcostan/jira-mcp)** — Jira integration as an MCP server
 
-### 🌍 Languages
+### 📦 Libraries
 
-- Portuguese (Native)
-- English (B1+)
-- Spanish (C1)
+* 🇧🇷 **[brasil-api-promisse](https://github.com/guhcostan/brasil-api-promisse)** — Promise-based wrapper for BrasilAPI ⭐ 65
 
-### 🎓 Education
+## 🔨 What I'm Working On
 
-- Bachelor's in Computer Science, Federal University of Lavras (2015-2019)
+* **Building the cleaner series** — CLI tools to clean macOS, Windows, and Linux without paying for bloatware
+* **MCP servers** — Connecting AI agents to real tools (Figma, Jira, web search)
+* **Leading mobile teams** — TypeScript, React Native, CI/CD at scale at Thoughtworks
+
+## 🛠 Tech Stack
+
+**Mobile:** React Native · Expo  
+**Web:** React · Next.js  
+**Backend:** Node.js · TypeScript  
+**AI/Agents:** MCP servers · Claude · Cursor  
+**Infra:** Jenkins · Bitrise · Firebase  
+
+## 📊 Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guhcostan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhcostan&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guhcostan)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://guhcostan.dev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/guhcostan)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~guhcostan)
 
 ---
 
-💼 Open for collaborations and exciting projects! Feel free to reach out if you'd like to discuss tech, opportunities, or just have a chat about frontend development.
+<p align="center">
+  <i>If any of my tools saved you time, a ⭐ on the repo or a <a href="https://ko-fi.com/guhcostan">Ko-fi</a> goes a long way 🙏</i>
+</p>
