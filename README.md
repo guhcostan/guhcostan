@@ -1,14 +1,30 @@
 # Hi, I'm Gustavo 👋
 
-📍 **Brazil** | 💼 **Tech Anchor @ Thoughtworks** | 🧹 **Open Source builder**
+📍 **Brazil** | 💼 **Tech Anchor @ Thoughtworks** | 📱 **Mobile & Frontend Engineer**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI_Tools-000000?style=flat&logo=gnometerminal&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-8A2BE2?style=flat&logo=anthropic&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat&logo=bitrise&logoColor=white)
 
-> Tech Anchor at Thoughtworks with 6+ years in React Native. By day steering technical direction, by night shipping open source CLI tools and MCP servers that people actually use.
+> Mobile & Frontend Engineer with 6+ years building apps used by millions. Tech Anchor at Thoughtworks, steering technical direction across Brazil and Chile. Open source on the side, because why not.
+
+## 🔨 What I'm Working On
+
+* **Delivering mobile at scale** — React Native, TypeScript, CI/CD for the LatamPass app at Thoughtworks
+* **Exploring AI-assisted mobile development** — integrating LLMs into dev workflows
+* **Open source for fun** — mac-cleaner-cli, figmind, and a few MCP servers
+
+## 🛠 Tech Stack
+
+**Mobile:** React Native · Expo · iOS · Android  
+**Web:** React · Next.js  
+**Backend:** Node.js · TypeScript  
+**Infra:** Bitrise · Jenkins · Firebase  
+**AI/Tooling:** MCP servers · Claude · Cursor  
 
 ## 🚀 Open Source Projects
 
@@ -27,20 +43,6 @@
 ### 📦 Libraries
 
 * 🇧🇷 **[brasil-api-promisse](https://github.com/guhcostan/brasil-api-promisse)** — Promise-based wrapper for BrasilAPI ⭐ 65
-
-## 🔨 What I'm Working On
-
-* **Building the cleaner series** — CLI tools to clean macOS, Windows, and Linux without paying for bloatware
-* **MCP servers** — Connecting AI agents to real tools (Figma, Jira, web search)
-* **Steering technical direction** — TypeScript, React Native, CI/CD at scale at Thoughtworks
-
-## 🛠 Tech Stack
-
-**Mobile:** React Native · Expo  
-**Web:** React · Next.js  
-**Backend:** Node.js · TypeScript  
-**AI/Agents:** MCP servers · Claude · Cursor  
-**Infra:** Jenkins · Bitrise · Firebase  
 
 ## 🌐 Connect
 
