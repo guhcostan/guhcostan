@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo 👋
 
-📍 **Brazil** | 💼 **Tech Lead @ Thoughtworks** | 🧹 **Open Source builder**
+📍 **Brazil** | 💼 **Tech Anchor @ Thoughtworks** | 🧹 **Open Source builder**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -8,7 +8,7 @@
 ![CLI](https://img.shields.io/badge/CLI_Tools-000000?style=flat&logo=gnometerminal&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-8A2BE2?style=flat&logo=anthropic&logoColor=white)
 
-> Senior Mobile Engineer with 6+ years in React Native. By day leading teams at Thoughtworks, by night shipping open source CLI tools and MCP servers that people actually use.
+> Tech Anchor at Thoughtworks with 6+ years in React Native. By day steering technical direction, by night shipping open source CLI tools and MCP servers that people actually use.
 
 ## 🚀 Open Source Projects
 
@@ -32,7 +32,7 @@
 
 * **Building the cleaner series** — CLI tools to clean macOS, Windows, and Linux without paying for bloatware
 * **MCP servers** — Connecting AI agents to real tools (Figma, Jira, web search)
-* **Leading mobile teams** — TypeScript, React Native, CI/CD at scale at Thoughtworks
+* **Steering technical direction** — TypeScript, React Native, CI/CD at scale at Thoughtworks
 
 ## 🛠 Tech Stack
 
@@ -41,13 +41,6 @@
 **Backend:** Node.js · TypeScript  
 **AI/Agents:** MCP servers · Claude · Cursor  
 **Infra:** Jenkins · Bitrise · Firebase  
-
-## 📊 Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guhcostan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhcostan&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ## 🌐 Connect
 
