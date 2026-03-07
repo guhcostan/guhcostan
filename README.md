@@ -47,11 +47,16 @@
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guhcostan)
+<<<<<<< HEAD
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/guhcostan)
+=======
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://guhcostan.dev)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/guhcostan)
+>>>>>>> 3ed3f3f256f2e8141842e50d7c45dfab9ddc483f
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~guhcostan)
 
 ---
 
 <p align="center">
-  <i>If any of my tools saved you time, a ⭐ on the repo or a <a href="https://ko-fi.com/guhcostan">Ko-fi</a> goes a long way 🙏</i>
+  <i>If any of my tools saved you time, a ⭐ on the repo or a <a href="https://github.com/sponsors/guhcostan">GitHub Sponsors</a> goes a long way 🙏</i>
 </p>
